@@ -3,3 +3,13 @@ D:\Allprojects\AllRepos\Seminars\Seminar2\obj\Debug\net6.0\Seminar2.GeneratedMSB
 D:\Allprojects\AllRepos\Seminars\Seminar2\obj\Debug\net6.0\Seminar2.AssemblyInfoInputs.cache
 D:\Allprojects\AllRepos\Seminars\Seminar2\obj\Debug\net6.0\Seminar2.AssemblyInfo.cs
 D:\Allprojects\AllRepos\Seminars\Seminar2\obj\Debug\net6.0\Seminar2.csproj.CoreCompileInputs.cache
+D:\Allprojects\AllRepos\Seminars\Seminar2\bin\Debug\net6.0\Seminar2.exe
+D:\Allprojects\AllRepos\Seminars\Seminar2\bin\Debug\net6.0\Seminar2.deps.json
+D:\Allprojects\AllRepos\Seminars\Seminar2\bin\Debug\net6.0\Seminar2.runtimeconfig.json
+D:\Allprojects\AllRepos\Seminars\Seminar2\bin\Debug\net6.0\Seminar2.dll
+D:\Allprojects\AllRepos\Seminars\Seminar2\bin\Debug\net6.0\Seminar2.pdb
+D:\Allprojects\AllRepos\Seminars\Seminar2\obj\Debug\net6.0\Seminar2.dll
+D:\Allprojects\AllRepos\Seminars\Seminar2\obj\Debug\net6.0\refint\Seminar2.dll
+D:\Allprojects\AllRepos\Seminars\Seminar2\obj\Debug\net6.0\Seminar2.pdb
+D:\Allprojects\AllRepos\Seminars\Seminar2\obj\Debug\net6.0\Seminar2.genruntimeconfig.cache
+D:\Allprojects\AllRepos\Seminars\Seminar2\obj\Debug\net6.0\ref\Seminar2.dll
